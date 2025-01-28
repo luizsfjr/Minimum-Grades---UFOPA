@@ -5,3 +5,5 @@ Using the simple Data Architeture below, I developed a dashboard do gather the d
 ![image](https://github.com/user-attachments/assets/807fa523-0340-4b4e-89e5-02c05bce6afd)
 
 The dashboard is free and It's available to acess in https://bit.ly/49CcVj0.
+
+![image](https://github.com/user-attachments/assets/6c7e670d-f06d-4563-891e-63041905f037)
