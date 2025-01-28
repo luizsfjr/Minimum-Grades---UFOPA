@@ -1,4 +1,4 @@
-# Minimum-Grades---UFOPA
+# Minimum-Grades of Federal University Of Western Pará (UFOPA)
 
 Using the simple Data Architeture below, I developed a dashboard do gather the data of all courses available at UFOPA from 2019 to 2023. To do that, I received the number of applicants from the University and I obtained the minimum grades of the University website using Web Scrapping.
 
